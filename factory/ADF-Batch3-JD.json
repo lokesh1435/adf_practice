@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Batch3-JD",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "800372b7-acbd-40dc-92e5-4c32add28a5b",
+		"tenantId": "0c1047f2-e4e4-4ac5-ae6f-c721ec3188fb"
+	}
+}
