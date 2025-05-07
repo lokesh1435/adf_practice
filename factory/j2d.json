@@ -1,0 +1,9 @@
+{
+	"name": "j2d",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8ee6b4fe-4baa-44f1-ae71-5bf0421f1a28",
+		"tenantId": "0c1047f2-e4e4-4ac5-ae6f-c721ec3188fb"
+	}
+}
